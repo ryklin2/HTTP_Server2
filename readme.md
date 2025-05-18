@@ -1,6 +1,3 @@
-# Webserver Project - Spring 2025
-
-**Team Members**: Daniel Omstead, Ryan Heath
 
 ## Simple Java HTTP Server
 
@@ -32,7 +29,7 @@ The server supports basic authentication for protected resources using a `.passw
 2. **Directory Structure**:
    Ensure all `.java` files are in `server\src\server\` with subdirectories:
 
-   G:\gitHubG\web-server-daniel-omstead-ryan-heath
+   G:\gitHubG\web-serve
    ├───server
    │   └───src
    │       └───server
